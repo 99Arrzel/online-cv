@@ -16,7 +16,7 @@ sidebar:
     email: af.carrillo@live.com
     phone: +591 63613646
     timezone: America/La_Paz # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    website: https://amantedelacocacola.com/ # Include the full website URL, including "http://" or "https://".
+    # website: https://amantedelacocacola.com/ # Include the full website URL, including "http://" or "https://". Just use GH pages.
     linkedin: 99Arrzel
     github: 99Arrzel
     telegram: # add your nickname without '@' sign
