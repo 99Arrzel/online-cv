@@ -143,6 +143,10 @@ projects:
         link: "https://github.com/99Arrzel/ReusableFlows"
         tagline: "A wrapper for Tanstack Query that lets you type your inputs and outputs using Zod"
 
+      - title: FabLab Job Tracking
+        link: "https://github.com/FabLab-Santa-Cruz/system"
+        tagline: "A simple app to track recruits in FabLab Santa Cruz"
+
 # oss:
 #     title: OSS Contributions
 #     intro: >
